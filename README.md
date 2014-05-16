@@ -1,4 +1,4 @@
-Please see gh-pages for this repo
+Please see gh-pages for this repo at http://cdinu.github.io/ignition-conf-speech-bucuresti-2014-05/
 
 Autor - [Cristian Dinu](http://cristiandinu.info)
 
